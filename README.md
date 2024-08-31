@@ -1,2 +1,4 @@
 # Globalnoe-teplo
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+## Идеи для проекта:
+1.
