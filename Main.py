@@ -26,3 +26,5 @@ async def reas(ctx):
   time.wait(1)
   await ctx.send('4.')
   time.wait(1)
+
+bot.run(TOKEN)
