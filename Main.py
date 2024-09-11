@@ -11,10 +11,10 @@ bot = commands.Bot(command_prefix='/', intents=intents, help_command=None)
 async def on_ready():
     print(f'{bot.user}')
 
-@bot.command
-async def temp(ctx):
-  etemp = #Температура Земли
-  await ctx.send('Температура земли: ', etemp)
+#@bot.command
+#async def temp(ctx):
+ # etemp = Температура Земли
+ # await ctx.send('Температура земли: ', etemp)
 
 @bot.command
 async def reas(ctx):
